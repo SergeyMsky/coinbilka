@@ -1,6 +1,6 @@
 # coinbilka
 
-coinbilka is a Binance Spot portfolio tracker and trade journal. It brings wallet balances, portfolio history, imported account activity, and individually tracked spot deals together, with account and exchange settings in one responsive interface.
+Coinbilka is a fullstack Binance Spot portfolio tracker and trade journal. It brings wallet balances, portfolio history, imported account activity, and individually tracked spot deals together in a responsive interface, powered by React, TypeScript, Supabase, and PostgreSQL.
 
 ## Demo
 
